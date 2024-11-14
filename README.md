@@ -2,7 +2,7 @@
 
 # Hi, I'm Sushrut Kamat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<img align="right" alt="GIF" src="https://i.ibb.co/Y2KRtxC/githubdev.gif" width="408" height="318" />
+<img align="right" alt="Deceloper GIF" src="https://i.ibb.co/Y2KRtxC/githubdev.gif" width="300" />
 
 🔭 I'm a react developer. I previously worked at Accenture.
 
