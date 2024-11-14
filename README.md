@@ -10,8 +10,6 @@
 
 💬 Ask me about **Web Development**
 
-📫 How to reach me: **[Twitter](https://x.com/KamatSushrut), [Instagram](https://www.instagram.com/kamat_sushrut)**
-
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,materialui,github,vercel)
 
